@@ -23,7 +23,7 @@ The **Least Significant Bit (LSB)** technique hides data by modifying the least 
 - The stego image looks almost identical to the original image.
 - Secret data can be securely embedded without noticeable quality loss.
 
-## 🚀 Features
+## Features
 
 - Hide secret text inside an image
 - Password-based encryption for additional security
