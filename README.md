@@ -1,5 +1,3 @@
-# Steganography-password-based-using-bit-plane-slicing-LSB-
-
 # Steganography using LSB in Image (Password Based Encryption)
 
 ## Project Overview
